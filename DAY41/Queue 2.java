@@ -10,8 +10,6 @@ Sample Output 2 : 9 */
 Space Complexity: o(n)
 import java.util.*;
 
-poojadhiman69424@gmail.com
-
 class Solution{
 static int minCost(int arr[], int n){
 PriorityQueue<Integer> pq
